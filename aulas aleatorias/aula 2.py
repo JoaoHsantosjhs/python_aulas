@@ -10,7 +10,7 @@ import socket
 import time
 import threading
 import sys
-# AF_INET = Network Address Family : IPv4
+# AF_INET = Network Address Family:IPv4
 # SOCK_DGRAM = DataGram Socket : UDP
 # Function for receiving
 def receiver():
